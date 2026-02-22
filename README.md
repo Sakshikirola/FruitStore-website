@@ -6,7 +6,7 @@ This project showcases smooth animations, responsive layouts, and a clean UI des
 ---
 
 ## 🚀 Live Preview
-
+https://fruit-store-website.vercel.app/
 ---
 
 ## 📌 Features
